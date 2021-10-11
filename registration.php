@@ -6,6 +6,6 @@
 
 \Magento\Framework\Component\ComponentRegistrar::register(
     \Magento\Framework\Component\ComponentRegistrar::MODULE, 
-    'Walmart_InventorySourceBopisAttributes',
+    'Nagarajusaveera_ModuleInventory',
 __DIR__
 );
