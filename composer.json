@@ -11,7 +11,7 @@
         "php": "~7.1.3||~7.2.0||~7.3.0",
         "magento/framework": "*"
     },
-	"minimum-stability": "dev",
+	"minimum-stability": "master",
     "prefer-stable": true,
     "autoload": {
         "files": [
