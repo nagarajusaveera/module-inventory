@@ -1,5 +1,5 @@
 {
-    "name": "nagarajusaveera/module-inventory",
+    "name": "walmart/module-inventory-source-bopis-attributes",
     "description": "Attributes for bopis inventory source",    
     "type": "magento2-module",
     "version": "1.0.1",
